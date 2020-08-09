@@ -1,1 +1,1 @@
-# programming-in-c-3rd-ed
+# Programming in C 3rd Ed. by Stephen G. Kochan
